@@ -1,0 +1,15 @@
+/Users/bhuvansshetty/projects/learn C#/bin/Debug/net10.0/learn C#
+/Users/bhuvansshetty/projects/learn C#/bin/Debug/net10.0/learn C#.deps.json
+/Users/bhuvansshetty/projects/learn C#/bin/Debug/net10.0/learn C#.runtimeconfig.json
+/Users/bhuvansshetty/projects/learn C#/bin/Debug/net10.0/learn C#.dll
+/Users/bhuvansshetty/projects/learn C#/bin/Debug/net10.0/learn C#.pdb
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.AssemblyInfoInputs.cache
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.AssemblyInfo.cs
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.csproj.CoreCompileInputs.cache
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.sourcelink.json
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.dll
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/refint/learn C#.dll
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.pdb
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/learn C#.genruntimeconfig.cache
+/Users/bhuvansshetty/projects/learn C#/obj/Debug/net10.0/ref/learn C#.dll
