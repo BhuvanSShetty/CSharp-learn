@@ -7,6 +7,11 @@ interface IWork
     void Work();
 }
 
+public interface ILabel
+{
+    string Name1 { get; set; }
+}
+
 // Parent Class
 class Employee
 {
@@ -37,9 +42,10 @@ class Developer : Employee, IWork
 {
     public string Language { get; set; }
 
+    public string Name1 { get; set; } // Implementing ILabel interface property
+
     // Constructor
-    public Developer(int id, string name, double salary, string language)
-        : base(id, name, salary)
+    public Developer(int id, string name, double salary, string language): base(id, name, salary)
     {
         Language = language;
     }
